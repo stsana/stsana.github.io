@@ -4,6 +4,8 @@ layout: default
 
 Dans cette page je poste mes travaux passés. Cette page est actuellement en construction.
 
+Exercer ma passion et mettre mes compétences morales et pratiques au service des organisations afin de créer de la valeur et résoudre les problèmes quotidiens.
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
