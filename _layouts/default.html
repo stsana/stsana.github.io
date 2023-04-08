@@ -22,10 +22,12 @@
         <nav>
           <ul>
             <li class="link"><a href="{{ stsana.github.io/ }}">Bienvenue</a></li>
-            <li class="link"><a href="{{}}">Services</li>
-            <li class="link"><a href="{{}}">Projets</li>
-            <li class="link"><a href="{{}}">CV</li>
-            <li class="link"><a href="{{}}">Contacts</li>
+            {% if site.show_downloads %}
+            <li class="link"><a href="{{ }}">Services</a></li>
+            <li class="link"><a href="{{  }}">Projets</a></li>
+            <li class="link"><a href="{{  }}">CV</a></li>
+            <li class="link"><a href="{{  }}">Contacts</a></li>
+            {% endif %}
           </ul>
         </nav>
       </div><!-- end header -->
